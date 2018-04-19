@@ -8,8 +8,11 @@ Drop the module into any device in Ableton:
 ![Insert the Module](https://github.com/leonyuhanov/AbletonToOSC/blob/master/media/screen1.JPG)
 
 In the modules fields, change the host port and instrument id to:
+
 Host: The IP address of your ESP8266
+
 Port: 2000
+
 Instrument ID: your choice, assign each module a different instument ID
 
 Upload the code to your ESP and make sure its on the same network as the machine running Ableton Live
